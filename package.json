@@ -1,0 +1,15 @@
+{
+  "name": "com.david.cdi",
+  "version": "0.0.1",
+  "displayName": "CDI",
+  "description": "This is DI where I cutoff functions that I don't need",
+  "unity": "2023.2",
+  "unityRelease": "14f1",
+  "keywords": [
+    "David",
+    "CDI"
+  ],
+  "author": {
+    "name": "David"
+  }
+}
